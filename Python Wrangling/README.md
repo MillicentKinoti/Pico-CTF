@@ -1,0 +1,1 @@
+decrypt the file using the python file to get the flag
