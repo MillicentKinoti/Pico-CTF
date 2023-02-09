@@ -1,1 +1,1 @@
-decrypt the file using the python file to get the flag
+decrypt flag.txt.en file using ende.py to get the flag
