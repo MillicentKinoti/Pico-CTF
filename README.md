@@ -1,2 +1,2 @@
 # Pico-CTF
-picoGym Practice Challenges
+picoGym Practice Challenges General Skills
